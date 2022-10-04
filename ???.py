@@ -56,7 +56,7 @@ while t < limit:
 
         time.sleep(5)
 
-        print("space l2")
+        print("This sentence will never appear 2")
 
     j = "".join(l2)
 
