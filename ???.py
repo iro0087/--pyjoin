@@ -102,8 +102,4 @@ if shw == "y":
 
 else:
 
-    l_teste = ["_"]
-
-    print(l_teste.count(" "))
-
     sys.exit()
